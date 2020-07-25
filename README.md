@@ -14,6 +14,9 @@ _Do you think you can help the little witch to escape from all enemies_?
 * Arrow Up: Jump.
 * 2 Arrow Up: Double Jump.
 
+##Gift
+![](/home/rosi/Documents/witchGame/TheAdventuresOfSarah.gif)
+
 ##Acknowledgment 
 * The game was developed during a free immersive course from Alura.
  Background music was also made available by them.
