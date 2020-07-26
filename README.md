@@ -14,7 +14,7 @@ _Do you think you can help the little witch to escape from all enemies_?
 * Arrow Up: Jump.
 * 2 Arrow Up: Double Jump.
 
-## Gift
+## Demo
 ![](images/assets/TheAdventuresOfSarah.gif)
 
 ## Acknowledgment 
